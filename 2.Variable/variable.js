@@ -1,24 +1,30 @@
 // Todo Variable
 /* 
+
     * Pada JavaScript setidaknya ada tiga cara untuk mendeklarasikan sebuah variabel, yaitu menggunakan keyword var, let, dan const. Pada versi ECMAScript 2015 (ES6) dikenalkan deklarasi variabel dengan let dan const untuk menggantikan var yang dinilai kontroversial dan rawan menimbulkan bug. 
+
 */
 
 
 // Todo Expression Dan Statement
 /* 
+
     * Kode untuk mendeklarasikan variabel(var , let , const) dikenal dengan declaration statement.
     * Kode untuk menginisialisasikan nilai ke dalam sebuah variabel dengan tanda sama dengan (=) ini disebut dengan assignment expression. 
     * Sedangkan Statement atau pernyataan adalah suatu instruksi yang di tulis dalam program untuk menjalankan suatu program. 
+    * 
 */
 
 
 
 // Todo Berikut beberapa aturan dalam penamaan variabel
 /*
+
     * Harus dimulai dengan huruf atau underscore (_).
     * Dapat terdiri dari huruf, angka, dan underscore (_) dengan berbagai kombinasi.
     * Tidak boleh mengandung spasi (whitespace). Jika penamaan variabel lebih dari dua kata,    tuliskan secara camelCase. Contoh firstName, lastName, catName, dll.
     * Tidak boleh mengandung karakter spesial (! . , / \ + * = dll.)
+    * 
 */
 
 
@@ -57,7 +63,9 @@ console.log(lastName); // Menampilkan Data Ke console
 
 // Todo Const
 /*
+
     * Const merupakan kependekan dari constant. Artinya, kita akan mendeklarasikan sebuah variabel dengan const ketika ingin variabel bernilai konstan dan tidak bisa diubah setelah diinisialisasi nilainya. Bayangkan variabel bernilai const sebagai sebuah kotak yang ditutup dan disegel setelah diisi, sehingga nilainya tidak bisa diubah lagi.
+
 */
 
 
