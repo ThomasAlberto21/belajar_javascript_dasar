@@ -1,7 +1,7 @@
 // Todo If / Else Statement
 /*
 
-    * IF digunakan untuk menentukan kondisi pertama, dan akan di eksekusi jika kondisinya benar. ELSE IF digunakan untuk menentukan kondisi kedua, apabila setelah pengujian pada kondisi yang pertama salah, dan akan di eksekusi jika kondisinya benar , dan ELSE akan dieksekusi jika kedua statement IF dan ELSE IF bernilai false.
+    * IF digunakan untuk menentukan kondisi pertama, dan akan di eksekusi jika kondisinya benar. ELSE IF digunakan untuk menentukan kondisi kedua, apabila setelah pengujian pada kondisi yang pertama salah, dan akan di eksekusi jika kondisinya benar , dan ELSE akan dieksekusi jika kedua statement IF dan ELSE IF bernilai false. 
 
 */
 

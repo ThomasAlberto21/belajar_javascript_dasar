@@ -1,7 +1,7 @@
 // Todo Ternary Operator
 /*
 
-     * Operator ternary merupakan shorthand untuk percabangan IF dan juga ELSE , tapi lebih singkat dan to the point.
+     * Operator ternary merupakan shorthand untuk percabangan IF dan juga ELSE , tapi lebih singkat dan to the point. 
 
 */
 

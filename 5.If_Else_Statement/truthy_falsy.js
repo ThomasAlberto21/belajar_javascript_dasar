@@ -8,7 +8,7 @@
     * String kosong seperti “” atau ‘’
     * null
     * undefined
-    * NaN, atau Not a Number
+    * NaN, atau Not a Number 
 
 */
 
